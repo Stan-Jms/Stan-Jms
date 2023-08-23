@@ -1,6 +1,3 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Stan-Jms.Stan-Jms)
-
-
 # Stanley Jamais - Product Owner / Manager
 
 Hello you ! 👋
