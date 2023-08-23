@@ -1,5 +1,5 @@
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Stan-Jms.Stan-Jms)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=stanley.js.stanley.js)
 
 # Stanley Jamais - Product Owner / Manager
 
