@@ -8,27 +8,22 @@ I'm a junior Product Owner currently working at [Devoteam](https://www.devoteam.
 
 Based in Paris 🥖
 
-## Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=linkedin)](https://www.linkedin.com/in/stanleyjms/)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-blue)](mailto:jamais.stanley@gmail.com)
-
 ## Who Am I?
 
-I'm a 24-year-old man who has been passionate about anything related to computer science since high school. I've worked hard to achieve my goals, and I'm proud of the work I've done so far.
+🤓 I'm a 24-year-old man who has been passionate about anything related to computer science since high school. I've worked hard to achieve my goals, and I'm proud of the work I've done so far.
 
 This GitHub page showcases all the projects I've completed during my studies and some other side projects.
 
-I've studied at: [HETIC](https://www.hetic.net/) | [Paris 13](https://www.univ-spn.fr/) | [Paris Descartes](https://u-paris.fr/en/)
+🎓 I've studied at: [HETIC](https://www.hetic.net/) | [Paris 13](https://www.univ-spn.fr/) | [Paris Descartes](https://u-paris.fr/en/)
 
-I've previously worked for: [Carrefour](https://www.carrefour.com/)
+👔 I've previously worked for: [Carrefour](https://www.carrefour.com/)
 
 ## GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Stanley.js&theme=dark&hide_border=false)<br/>
 
 ## Skills
 
-Although I'm no longer a developer for my job, I still love coding some personal projects for fun 😁
+🛠 Although I'm no longer a developer for my job, I still love coding some personal projects for fun
 
 Here's a quick showcase of the languages I can work with:
 
@@ -43,4 +38,9 @@ Here's a quick showcase of the languages I can work with:
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) |
 | **Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) |
 | **Hosting** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) |
-| **Other** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/j
+| **Other** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
+
+## Want to get in touch ?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=linkedin)](https://www.linkedin.com/in/stanleyjms/)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-blue)](mailto:jamais.stanley@gmail.com)
