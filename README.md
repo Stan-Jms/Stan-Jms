@@ -42,5 +42,7 @@ Here's a quick showcase of the languages I can work with:
 
 ## Want to get in touch ?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=linkedin)](https://www.linkedin.com/in/stanleyjms/)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-blue)](mailto:jamais.stanley@gmail.com)
+I'd love to hear from you so don't be shy and use those links to contact me 😄
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-Connect?style=flat&logo=linkedin&logoColor=%23ffffff&color=%230e76a8)](https://www.linkedin.com/in/stanleyjms/)
+[![Contact Me](https://img.shields.io/badge/Personal_Mail-ffffff?logo=gmail)](mailto:jamais.stanley@gmail.com)
