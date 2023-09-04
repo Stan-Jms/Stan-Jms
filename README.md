@@ -4,7 +4,7 @@ Hello there! 👋
 
 And welcome to my GitHub profile!
 
-I'm a junior Product Owner currently working at [Devoteam](https://www.devoteam.com/), where I provide consulting services for clients in need of expertise in product management.
+I'm a junior Product Owner/Manager currently working at [Devoteam](https://www.devoteam.com/), where I provide consulting services for clients in need of expertise in product management.
 
 Based in Paris 🥖
 
