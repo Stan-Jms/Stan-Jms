@@ -19,7 +19,7 @@ This GitHub page showcases all the projects I've completed during my studies and
 👔 I've previously worked for: [Carrefour](https://www.carrefour.com/) as Product Owner/Manager
 
 ## GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Stanley.js&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Stan-Jms&theme=dark&hide_border=false)<br/>
 
 ## Skills
 
