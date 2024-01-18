@@ -4,19 +4,19 @@ Hello there! 👋
 
 And welcome to my GitHub profile!
 
-I'm a junior Product Owner/Manager currently working at [NAME](https://www.google.com/), where I provide consulting services for clients in need of expertise in product management.
+I'm a junior Product Owner/Manager currently working at [Carrefour](https://www.carrefour.com/), where I provide consulting services for clients in need of expertise in product management < >ecommerce/marketplaces.
 
 Based in Paris 🥖
 
 ## Who Am I?
 
-🤓 I'm a 24-year-old man who has been passionate about anything related to computer science since high school. I've worked hard to achieve my goals, and I'm proud of the work I've done so far.
+🤓 I'm a 25-year-old man who has been passionate about anything related to computer science since high school. I've worked hard to achieve my goals, and I'm proud of the work I've done so far.
 
 This GitHub page showcases all the projects I've completed during my studies and some other side projects.
 
 🎓 I've studied at: [HETIC](https://www.hetic.net/) | [Paris 13](https://www.univ-spn.fr/) | [Paris Descartes](https://u-paris.fr/en/)
 
-👔 I've previously worked for: [Carrefour](https://www.carrefour.com/)
+👔 I've previously worked for: [Carrefour](https://www.carrefour.com/) as Product Owner/Manager
 
 ## GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Stanley.js&theme=dark&hide_border=false)<br/>
